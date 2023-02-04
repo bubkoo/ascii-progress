@@ -980,9 +980,9 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0, ansi-styles@^4.3.0:
   dependencies:
     color-convert "^2.0.1"
 
-ansi.js@1.0.0:
+ansi.js@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.npmmirror.com/ansi.js/-/ansi.js-1.0.0.tgz#49bda5e5d78fc54d0cdcd5f3f6f4fe37d8c8bd9d"
+  resolved "https://registry.yarnpkg.com/ansi.js/-/ansi.js-1.0.0.tgz#49bda5e5d78fc54d0cdcd5f3f6f4fe37d8c8bd9d"
   integrity sha512-V2+WEz6o1sM/JzltC6hytfvDbu8o3LNQtOeZJVTc6gIbcXdMJNlnGQRt2o4/2uPIgnoljzyQMcC4EDWbJWHkcQ==
   dependencies:
     on-new-line "1.0.0"
@@ -2513,9 +2513,9 @@ hosted-git-info@^5.0.0, hosted-git-info@^5.1.0:
     lru-cache "^7.5.1"
 
 http-cache-semantics@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.npmmirror.com/http-cache-semantics/-/http-cache-semantics-4.1.0.tgz#49e91c5cbf36c9b94bcfcd71c23d5249ec74e390"
-  integrity sha512-carPklcUh7ROWRK7Cv27RPtdhYhUsela/ue5/jKzjegVvXDqM2ILE9Q2BGn9JZJh1g87cp56su/FgQSzcWS8cQ==
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-4.1.1.tgz#abe02fcb2985460bf0323be664436ec3476a6d5a"
+  integrity sha512-er295DKPVsV82j5kw1Gjt+ADA/XYHsajl82cGNQG2eyoPkvgUhX+nDIyelzhIWbbsXP39EHcI6l5tYs2FYqYXQ==
 
 http-proxy-agent@^5.0.0:
   version "5.0.0"
@@ -3813,7 +3813,7 @@ object.values@^1.1.5:
     define-properties "^1.1.3"
     es-abstract "^1.19.1"
 
-on-new-line@1.0.0:
+on-new-line@1.0.0, on-new-line@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmmirror.com/on-new-line/-/on-new-line-1.0.0.tgz#8585bc2866c8c0e192e410a6d63bdd1722148ae7"
   integrity sha512-oFvNnSdoQL0E/jwQHK48m+kO6+eY8hFxSWI1zpvdaj0cEIkgleVW2nVTtCez3H3IyMk9iNBF7JmVdEsyxFWp2A==
